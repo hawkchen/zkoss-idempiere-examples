@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<div style="height: 100%; width: 100%; overflow: auto;">
+		<timepicker format="HH:mm" width="120px"/>
+	</div>
+</zk>

@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: zkee components fragment
+Bundle-SymbolicName: org.idempiere.zkee.comps.fragment
+Bundle-Version: 12.0.0.qualifier
+Bundle-Vendor: iDempiere Community
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-ClassPath: .,
+ lib/zkex.jar,
+ lib/gson.jar,
+ lib/zkmax.jar
+Fragment-Host: org.adempiere.ui.zk;bundle-version="12.0.0"
+Eclipse-BundleShape: dir
+Automatic-Module-Name: org.idempiere.zkee.comps.fragment
